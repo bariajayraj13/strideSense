@@ -1,0 +1,4 @@
+#Sun Nov 01 01:55:23 IST 2026
+base.0=D\:\\SEM 5\\Autonomus\\Project\\StrideSense-Android-Studio-Project\\StrideSenseAndroid\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

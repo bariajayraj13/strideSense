@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.stridesense.app-mergeDebugResources-3:/values-mn/values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-mn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,301,424,554",
+                        "endColumns": "46,54,122,129,88",
+                        "endOffsets": "245,300,423,553,642"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,165,292,426",
+                        "endColumns": "50,58,126,133,92",
+                        "endOffsets": "101,160,287,421,514"
+                    }
+                }
+            ]
+        }
+    ]
+}

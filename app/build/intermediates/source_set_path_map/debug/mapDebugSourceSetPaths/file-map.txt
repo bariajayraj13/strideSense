@@ -1,0 +1,9 @@
+com.stridesense.app-core-1.56.0-0 C:\Users\baria\.gradle\caches\8.14.6\transforms\4fb485097816402e166a8a86e87c6c3f\transformed\core-1.56.0\res
+com.stridesense.app-pngs-1 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\build\generated\res\pngs\debug
+com.stridesense.app-resValues-2 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\build\generated\res\resValues\debug
+com.stridesense.app-updated_navigation_xml-3 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\build\generated\updated_navigation_xml\debug
+com.stridesense.app-packageDebugResources-4 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.stridesense.app-packageDebugResources-5 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.stridesense.app-debug-6 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.stridesense.app-debug-7 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\src\debug\res
+com.stridesense.app-main-8 D:\SEM 5\Autonomus\Project\StrideSense-Android-Studio-Project\StrideSenseAndroid\app\src\main\res

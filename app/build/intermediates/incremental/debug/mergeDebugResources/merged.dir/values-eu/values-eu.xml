@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Utzi</string>
+    <string name="__arcore_continue">Egin aurrera</string>
+    <string name="__arcore_install_app">Aplikazio honek EArako Google Play Services-en azken bertsioa behar du.</string>
+    <string name="__arcore_install_feature">Eginbide honek EArako Google Play Services-en azken bertsioa behar du.</string>
+    <string name="__arcore_installing">EArako Google Play Services instalatzen…</string>
+</resources>

@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color blue
+color ink
+color mint
+color muted
+color surface
+color surface_high
+color white
+drawable ic_launcher
+string app_name
+style AppTheme

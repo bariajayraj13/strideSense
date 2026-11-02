@@ -1,0 +1,21 @@
+com.stridesense.app
+color blue
+color ink
+color mint
+color muted
+color surface
+color surface_high
+color white
+drawable ic_launcher
+id __arcore_cancelButton
+id __arcore_continueButton
+id __arcore_messageText
+layout __arcore_education
+raw keep_arcore
+string __arcore_cancel
+string __arcore_continue
+string __arcore_install_app
+string __arcore_install_feature
+string __arcore_installing
+string app_name
+style AppTheme

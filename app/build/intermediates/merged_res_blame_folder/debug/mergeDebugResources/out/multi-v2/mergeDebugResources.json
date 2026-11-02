@@ -1,0 +1,2587 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,298,418,545",
+                        "endColumns": "49,48,119,126,90",
+                        "endOffsets": "248,297,417,544,635"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,286,417",
+                        "endColumns": "53,52,123,130,94",
+                        "endOffsets": "104,157,281,412,507"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-bs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,296,415,536",
+                        "endColumns": "46,49,118,120,82",
+                        "endOffsets": "245,295,414,535,618"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,283,408",
+                        "endColumns": "50,53,122,124,86",
+                        "endOffsets": "101,155,278,403,490"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-sw\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,296,426,563",
+                        "endColumns": "46,49,129,136,97",
+                        "endOffsets": "245,295,425,562,660"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,294,435",
+                        "endColumns": "50,53,133,140,101",
+                        "endOffsets": "101,155,289,430,532"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-et\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,247,295,413,537",
+                        "endColumns": "47,47,117,123,93",
+                        "endOffsets": "246,294,412,536,630"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,159,281,409",
+                        "endColumns": "51,51,121,127,97",
+                        "endOffsets": "102,154,276,404,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rCO_values-es-rCO.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rCO\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-fil_values-fil.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-fil\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "200,251,304,442,580",
+                        "endColumns": "50,52,137,137,92",
+                        "endOffsets": "250,303,441,579,672"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,309,451",
+                        "endColumns": "54,56,141,141,96",
+                        "endOffsets": "105,162,304,446,543"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-hy\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,301,454,613",
+                        "endColumns": "48,52,152,158,108",
+                        "endOffsets": "247,300,453,612,721"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,165,322,485",
+                        "endColumns": "52,56,156,162,112",
+                        "endOffsets": "103,160,317,480,593"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rMX_values-es-rMX.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rMX\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-af\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,250,303,420,545",
+                        "endColumns": "50,52,116,124,88",
+                        "endOffsets": "249,302,419,544,633"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,288,417",
+                        "endColumns": "54,56,120,128,92",
+                        "endOffsets": "105,162,283,412,505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rCR_values-es-rCR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rCR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-it\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,247,298,428,562",
+                        "endColumns": "47,50,129,133,89",
+                        "endOffsets": "246,297,427,561,651"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,162,296,434",
+                        "endColumns": "51,54,133,137,93",
+                        "endOffsets": "102,157,291,429,523"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,250,302,438,571",
+                        "endColumns": "50,51,135,132,89",
+                        "endOffsets": "249,301,437,570,660"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,166,306,443",
+                        "endColumns": "54,55,139,136,93",
+                        "endOffsets": "105,161,301,438,532"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rNI_values-es-rNI.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rNI\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-cs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,299,411,525",
+                        "endColumns": "46,52,111,113,83",
+                        "endOffsets": "245,298,410,524,608"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,163,279,397",
+                        "endColumns": "50,56,115,117,87",
+                        "endOffsets": "101,158,274,392,480"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-gl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,300,453,607",
+                        "endColumns": "48,51,152,153,104",
+                        "endOffsets": "247,299,452,606,711"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,321,479",
+                        "endColumns": "52,55,156,157,108",
+                        "endOffsets": "103,159,316,474,583"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,246,291,378,467",
+                        "endColumns": "42,44,86,88,70",
+                        "endOffsets": "245,290,377,466,537"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,242,335",
+                        "endColumns": "46,48,90,92,74",
+                        "endOffsets": "97,146,237,330,405"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,300,425,551",
+                        "endColumns": "48,51,124,125,88",
+                        "endOffsets": "247,299,424,550,639"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,293,423",
+                        "endColumns": "52,55,128,129,92",
+                        "endOffsets": "103,159,288,418,511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,250,301,423,545",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "249,300,422,544,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,293,415,539",
+                        "endColumns": "46,46,121,123,88",
+                        "endOffsets": "245,292,414,538,627"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,157,283,411",
+                        "endColumns": "50,50,125,127,92",
+                        "endOffsets": "101,152,278,406,499"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,447,599",
+                        "endColumns": "48,51,142,151,107",
+                        "endOffsets": "251,303,446,598,706"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,311,467",
+                        "endColumns": "52,55,146,155,111",
+                        "endOffsets": "103,159,306,462,574"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,243,293,418,546",
+                        "endColumns": "43,49,124,127,87",
+                        "endOffsets": "242,292,417,545,633"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,157,286,418",
+                        "endColumns": "47,53,128,131,91",
+                        "endOffsets": "98,152,281,413,505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-te\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,252,307,414,528",
+                        "endColumns": "52,54,106,113,91",
+                        "endOffsets": "251,306,413,527,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,171,282,400",
+                        "endColumns": "56,58,110,117,95",
+                        "endOffsets": "107,166,277,395,491"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rHN_values-es-rHN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rHN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-zh\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,242,287,374,465",
+                        "endColumns": "42,44,86,90,73",
+                        "endOffsets": "241,286,373,464,538"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,242,337",
+                        "endColumns": "46,48,90,94,77",
+                        "endOffsets": "97,146,237,332,410"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ro\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,247,300,442,586",
+                        "endColumns": "47,52,141,143,107",
+                        "endOffsets": "246,299,441,585,693"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,164,310,458",
+                        "endColumns": "51,56,145,147,111",
+                        "endOffsets": "102,159,305,453,565"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-de-rCH_values-de-rCH.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-de-rCH\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,253,302,436,573",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "252,301,435,572,663"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an\\work\\StrideSenseAndroid\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "540"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "835",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1359"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\baria\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an\\work\\StrideSenseAndroid\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,1,4,7,2,3,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "182,16,143,261,54,96,221",
+                        "endColumns": "38,37,38,39,41,46,39",
+                        "endOffsets": "216,49,177,296,91,138,256"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,132,171,211,253,300",
+                        "endColumns": "38,37,38,39,41,46,39",
+                        "endOffsets": "89,127,166,206,248,295,335"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "340,391,446,572,698",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "386,441,567,693,781"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\baria\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an\\work\\StrideSenseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "48",
+                        "endOffsets": "60"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "786",
+                        "endColumns": "48",
+                        "endOffsets": "830"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,244,299,416,536",
+                        "endColumns": "44,54,116,119,84",
+                        "endOffsets": "243,298,415,535,620"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,163,284,408",
+                        "endColumns": "48,58,120,123,88",
+                        "endOffsets": "99,158,279,403,492"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,246,291,378,469",
+                        "endColumns": "42,44,86,90,73",
+                        "endOffsets": "245,290,377,468,542"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,242,337",
+                        "endColumns": "46,48,90,94,77",
+                        "endOffsets": "97,146,237,332,410"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-sv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,297,420,552",
+                        "endColumns": "46,50,122,131,85",
+                        "endOffsets": "245,296,419,551,637"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,288,424",
+                        "endColumns": "50,54,126,135,89",
+                        "endOffsets": "101,156,283,419,509"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,294,421,549",
+                        "endColumns": "45,48,126,127,88",
+                        "endOffsets": "244,293,420,548,637"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,289,421",
+                        "endColumns": "49,52,130,131,92",
+                        "endOffsets": "100,153,284,416,509"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,247,299,413,531",
+                        "endColumns": "47,51,113,117,95",
+                        "endOffsets": "246,298,412,530,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,281,403",
+                        "endColumns": "51,55,117,121,99",
+                        "endOffsets": "102,158,276,398,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,251,303,433,570",
+                        "endColumns": "47,51,129,136,102",
+                        "endOffsets": "250,302,432,569,672"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,297,438",
+                        "endColumns": "51,55,133,140,106",
+                        "endOffsets": "102,158,292,433,540"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ur\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,250,303,417,538",
+                        "endColumns": "50,52,113,120,88",
+                        "endOffsets": "249,302,416,537,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,285,410",
+                        "endColumns": "54,56,117,124,92",
+                        "endOffsets": "105,162,280,405,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-kk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,244,297,445,596",
+                        "endColumns": "44,52,147,150,86",
+                        "endOffsets": "243,296,444,595,682"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,161,313,468",
+                        "endColumns": "48,56,151,154,90",
+                        "endOffsets": "99,156,308,463,554"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-gsw_values-gsw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-gsw\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "200,250,299,433,570",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "249,298,432,569,660"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rVE_values-es-rVE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rVE\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,252,307,411,522",
+                        "endColumns": "52,54,103,110,84",
+                        "endOffsets": "251,306,410,521,606"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,171,279,394",
+                        "endColumns": "56,58,107,114,88",
+                        "endOffsets": "107,166,274,389,478"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-zu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,298,437,567",
+                        "endColumns": "48,49,138,129,86",
+                        "endOffsets": "247,297,436,566,653"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,162,305,439",
+                        "endColumns": "52,53,142,133,90",
+                        "endOffsets": "103,157,300,434,525"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-en-rAU\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,250,301,423,545",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "249,300,422,544,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-en-rIE_values-en-rIE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-en-rIE\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,250,301,423,545",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "249,300,422,544,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-gu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,296,417,543",
+                        "endColumns": "46,49,120,125,89",
+                        "endOffsets": "245,295,416,542,632"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,285,415",
+                        "endColumns": "50,53,124,129,93",
+                        "endOffsets": "101,155,280,410,504"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ca\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,300,435,571",
+                        "endColumns": "49,50,134,135,96",
+                        "endOffsets": "248,299,434,570,667"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,164,303,443",
+                        "endColumns": "53,54,138,139,100",
+                        "endOffsets": "104,159,298,438,539"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rPY_values-es-rPY.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rPY\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-hi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,300,418,537",
+                        "endColumns": "48,51,117,118,95",
+                        "endOffsets": "247,299,417,536,632"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,286,409",
+                        "endColumns": "52,55,121,122,99",
+                        "endOffsets": "103,159,281,404,504"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ml\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,298,419,546",
+                        "endColumns": "49,48,120,126,96",
+                        "endOffsets": "248,297,418,545,642"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,287,418",
+                        "endColumns": "53,52,124,130,100",
+                        "endOffsets": "104,157,282,413,514"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-en-rSG_values-en-rSG.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,250,301,423,545",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "249,300,422,544,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,254,312,423,542",
+                        "endColumns": "54,57,110,118,78",
+                        "endOffsets": "253,311,422,541,620"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,114,176,291,414",
+                        "endColumns": "58,61,114,122,82",
+                        "endOffsets": "109,171,286,409,492"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-fr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,247,299,454,616",
+                        "endColumns": "47,51,154,161,92",
+                        "endOffsets": "246,298,453,615,708"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,322,488",
+                        "endColumns": "51,55,158,165,96",
+                        "endOffsets": "102,158,317,483,580"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-sr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,296,408,522",
+                        "endColumns": "46,49,111,113,84",
+                        "endOffsets": "245,295,407,521,606"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,276,394",
+                        "endColumns": "50,53,115,117,88",
+                        "endOffsets": "101,155,271,389,478"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-mo_values-mo.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-mo\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,247,300,442,586",
+                        "endColumns": "47,52,141,143,107",
+                        "endOffsets": "246,299,441,585,693"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,164,310,458",
+                        "endColumns": "51,56,145,147,111",
+                        "endOffsets": "102,159,305,453,565"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-iw\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,292,412,533",
+                        "endColumns": "45,46,119,120,93",
+                        "endOffsets": "244,291,411,532,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,156,280,405",
+                        "endColumns": "49,50,123,124,97",
+                        "endOffsets": "100,151,275,400,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-in\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,297,410,524",
+                        "endColumns": "45,51,112,113,84",
+                        "endOffsets": "244,296,409,523,608"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,278,396",
+                        "endColumns": "49,55,116,117,88",
+                        "endOffsets": "100,156,273,391,480"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rEC_values-es-rEC.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rEC\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-pt\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,300,418,544",
+                        "endColumns": "48,51,117,125,86",
+                        "endOffsets": "247,299,417,543,630"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,286,416",
+                        "endColumns": "52,55,121,129,90",
+                        "endOffsets": "103,159,281,411,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ja\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,290,387,487",
+                        "endColumns": "45,44,96,99,80",
+                        "endOffsets": "244,289,386,486,567"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,154,255,359",
+                        "endColumns": "49,48,100,103,84",
+                        "endOffsets": "100,149,250,354,439"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,250,301,423,545",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "249,300,422,544,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-he_values-he.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-he\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,292,412,533",
+                        "endColumns": "45,46,119,120,93",
+                        "endOffsets": "244,291,411,532,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,156,280,405",
+                        "endColumns": "49,50,123,124,97",
+                        "endOffsets": "100,151,275,400,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rDO_values-es-rDO.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rDO\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rPR_values-es-rPR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rPR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-no_values-no.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-no\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,297,415,542",
+                        "endColumns": "46,50,117,126,86",
+                        "endOffsets": "245,296,414,541,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,283,414",
+                        "endColumns": "50,54,121,130,90",
+                        "endOffsets": "101,156,278,409,500"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-hr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,298,412,528",
+                        "endColumns": "48,49,113,115,83",
+                        "endOffsets": "247,297,411,527,611"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,162,280,400",
+                        "endColumns": "52,53,117,119,87",
+                        "endOffsets": "103,157,275,395,483"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-th\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,294,404,514",
+                        "endColumns": "46,47,109,109,85",
+                        "endOffsets": "245,293,403,513,599"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,272,386",
+                        "endColumns": "50,51,113,113,89",
+                        "endOffsets": "101,153,267,381,471"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-lo\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,247,296,407,519",
+                        "endColumns": "47,48,110,111,85",
+                        "endOffsets": "246,295,406,518,604"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,160,275,391",
+                        "endColumns": "51,52,114,115,89",
+                        "endOffsets": "102,155,270,386,476"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,252,306,452,605",
+                        "endColumns": "52,53,145,152,90",
+                        "endOffsets": "251,305,451,604,695"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,170,320,477",
+                        "endColumns": "56,57,149,156,94",
+                        "endOffsets": "107,165,315,472,567"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-nb\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,297,415,542",
+                        "endColumns": "46,50,117,126,86",
+                        "endOffsets": "245,296,414,541,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,283,414",
+                        "endColumns": "50,54,121,130,90",
+                        "endOffsets": "101,156,278,409,500"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rGT_values-es-rGT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rGT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-fi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,244,292,421,555",
+                        "endColumns": "44,47,128,133,86",
+                        "endOffsets": "243,291,420,554,641"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,156,289,427",
+                        "endColumns": "48,51,132,137,90",
+                        "endOffsets": "99,151,284,422,513"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,297,415,535",
+                        "endColumns": "46,50,117,119,87",
+                        "endOffsets": "245,296,414,534,622"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,283,407",
+                        "endColumns": "50,54,121,123,91",
+                        "endOffsets": "101,156,278,402,494"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-az\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,302,414,532",
+                        "endColumns": "49,52,111,117,85",
+                        "endOffsets": "248,301,413,531,617"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,166,282,404",
+                        "endColumns": "53,56,115,121,89",
+                        "endOffsets": "104,161,277,399,489"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,294,419,544",
+                        "endColumns": "46,47,124,124,82",
+                        "endOffsets": "245,293,418,543,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,287,416",
+                        "endColumns": "50,51,128,128,86",
+                        "endOffsets": "101,153,282,411,498"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,242,287,382,477",
+                        "endColumns": "42,44,94,94,68",
+                        "endOffsets": "241,286,381,476,545"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,250,349",
+                        "endColumns": "46,48,98,98,72",
+                        "endOffsets": "97,146,245,344,417"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-sq\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,294,424,555",
+                        "endColumns": "45,48,129,130,93",
+                        "endOffsets": "244,293,423,554,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,292,427",
+                        "endColumns": "49,52,133,134,97",
+                        "endOffsets": "100,153,287,422,520"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-lt\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,296,434,576",
+                        "endColumns": "48,47,137,141,91",
+                        "endOffsets": "247,295,433,575,667"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,160,302,448",
+                        "endColumns": "52,51,141,145,95",
+                        "endOffsets": "103,155,297,443,539"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,246,291,382,474",
+                        "endColumns": "42,44,90,91,73",
+                        "endOffsets": "245,290,381,473,547"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,151,246,342",
+                        "endColumns": "46,48,94,95,77",
+                        "endOffsets": "97,146,241,337,415"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-en-rXC\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,353,507,732,954",
+                        "endColumns": "149,153,224,221,185",
+                        "endOffsets": "352,506,731,953,1139"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,209,367,596,822",
+                        "endColumns": "153,157,228,225,189",
+                        "endOffsets": "204,362,591,817,1007"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rUS\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rSV_values-es-rSV.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rSV\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-tl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,250,303,441,579",
+                        "endColumns": "50,52,137,137,92",
+                        "endOffsets": "249,302,440,578,671"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,167,309,451",
+                        "endColumns": "54,56,141,141,96",
+                        "endOffsets": "105,162,304,446,543"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rPA_values-es-rPA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rPA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,301,420,541",
+                        "endColumns": "48,52,118,120,88",
+                        "endOffsets": "247,300,419,540,629"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,165,288,413",
+                        "endColumns": "52,56,122,124,92",
+                        "endOffsets": "103,160,283,408,501"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-sl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,297,428,561",
+                        "endColumns": "48,48,130,132,83",
+                        "endOffsets": "247,296,427,560,644"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,161,296,433",
+                        "endColumns": "52,52,134,136,87",
+                        "endOffsets": "103,156,291,428,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-id_values-id.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-id\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,297,410,524",
+                        "endColumns": "45,51,112,113,84",
+                        "endOffsets": "244,296,409,523,608"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,278,396",
+                        "endColumns": "49,55,116,117,88",
+                        "endOffsets": "100,156,273,391,480"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-el\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,296,420,550",
+                        "endColumns": "45,50,123,129,85",
+                        "endOffsets": "244,295,419,549,635"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,160,288,422",
+                        "endColumns": "49,54,127,133,89",
+                        "endOffsets": "100,155,283,417,507"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-pt-rBR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,422,548",
+                        "endColumns": "48,51,117,125,86",
+                        "endOffsets": "251,303,421,547,634"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,286,416",
+                        "endColumns": "52,55,121,129,90",
+                        "endOffsets": "103,159,281,411,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,298,432,569",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "248,297,431,568,659"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-nl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,300,425,558",
+                        "endColumns": "49,50,124,132,85",
+                        "endOffsets": "248,299,424,557,643"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,164,293,430",
+                        "endColumns": "53,54,128,136,89",
+                        "endOffsets": "104,159,288,425,515"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-sk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,299,413,529",
+                        "endColumns": "46,52,113,115,83",
+                        "endOffsets": "245,298,412,528,612"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,163,281,401",
+                        "endColumns": "50,56,117,119,87",
+                        "endOffsets": "101,158,276,396,484"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-de-rAT_values-de-rAT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-de-rAT\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,253,302,436,573",
+                        "endColumns": "49,48,133,136,90",
+                        "endOffsets": "252,301,435,572,663"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,162,300,441",
+                        "endColumns": "53,52,137,140,94",
+                        "endOffsets": "104,157,295,436,531"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-fa\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,243,291,414,540",
+                        "endColumns": "43,47,122,125,93",
+                        "endOffsets": "242,290,413,539,633"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,155,282,412",
+                        "endColumns": "47,51,126,129,97",
+                        "endOffsets": "98,150,277,407,505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-my\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,302,439,579",
+                        "endColumns": "49,52,136,139,104",
+                        "endOffsets": "248,301,438,578,683"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,166,307,451",
+                        "endColumns": "53,56,140,143,108",
+                        "endOffsets": "104,161,302,446,555"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-b+sr+Latn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "206,253,303,415,529",
+                        "endColumns": "46,49,111,113,84",
+                        "endOffsets": "252,302,414,528,613"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,276,394",
+                        "endColumns": "50,53,115,117,88",
+                        "endOffsets": "101,155,271,389,478"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-mn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,301,424,554",
+                        "endColumns": "46,54,122,129,88",
+                        "endOffsets": "245,300,423,553,642"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,165,292,426",
+                        "endColumns": "50,58,126,133,92",
+                        "endOffsets": "101,160,287,421,514"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rPE_values-es-rPE.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rPE\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-pl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,294,403,514",
+                        "endColumns": "46,47,108,110,80",
+                        "endOffsets": "245,293,402,513,594"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,271,386",
+                        "endColumns": "50,51,112,114,84",
+                        "endOffsets": "101,153,266,381,466"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-am\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,243,289,391,494",
+                        "endColumns": "43,45,101,102,78",
+                        "endOffsets": "242,288,390,493,572"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,153,259,366",
+                        "endColumns": "47,49,105,106,82",
+                        "endOffsets": "98,148,254,361,444"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rBO_values-es-rBO.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rBO\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-lv\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,246,294,435,571",
+                        "endColumns": "46,47,140,135,90",
+                        "endOffsets": "245,293,434,570,661"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,303,443",
+                        "endColumns": "50,51,144,139,94",
+                        "endOffsets": "101,153,298,438,533"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-is\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,297,414,539",
+                        "endColumns": "49,47,116,124,85",
+                        "endOffsets": "248,296,413,538,624"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,161,282,411",
+                        "endColumns": "53,51,120,128,89",
+                        "endOffsets": "104,156,277,406,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-hu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,297,428,559",
+                        "endColumns": "45,51,130,130,85",
+                        "endOffsets": "244,296,427,558,644"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,296,431",
+                        "endColumns": "49,55,134,134,89",
+                        "endOffsets": "100,156,291,426,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-en-rZA_values-en-rZA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-en-rZA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,250,301,423,545",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "249,300,422,544,628"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,298,410,531",
+                        "endColumns": "45,52,111,120,100",
+                        "endOffsets": "244,297,409,530,631"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,162,278,403",
+                        "endColumns": "49,56,115,124,104",
+                        "endOffsets": "100,157,273,398,503"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ar-rSA_values-ar-rSA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ar-rSA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,249,298,413,531",
+                        "endColumns": "45,48,114,117,88",
+                        "endOffsets": "248,297,412,530,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,277,399",
+                        "endColumns": "49,52,118,121,92",
+                        "endOffsets": "100,153,272,394,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-be\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,297,417,540",
+                        "endColumns": "49,47,119,122,85",
+                        "endOffsets": "248,296,416,539,625"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,161,285,412",
+                        "endColumns": "53,51,123,126,89",
+                        "endOffsets": "104,156,280,407,497"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ar-rEG_values-ar-rEG.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ar-rEG\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,249,298,413,531",
+                        "endColumns": "45,48,114,117,88",
+                        "endOffsets": "248,297,412,530,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,277,399",
+                        "endColumns": "49,52,118,121,92",
+                        "endOffsets": "100,153,272,394,487"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-ms\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,296,410,524",
+                        "endColumns": "45,50,113,113,81",
+                        "endOffsets": "244,295,409,523,605"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,160,278,396",
+                        "endColumns": "49,54,117,117,85",
+                        "endOffsets": "100,155,273,391,477"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-fr-rCH_values-fr-rCH.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-fr-rCH\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,251,303,458,620",
+                        "endColumns": "47,51,154,161,92",
+                        "endOffsets": "250,302,457,619,712"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,163,322,488",
+                        "endColumns": "51,55,158,165,96",
+                        "endOffsets": "102,158,317,483,580"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-tr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,293,434,577",
+                        "endColumns": "45,47,140,142,86",
+                        "endOffsets": "244,292,433,576,663"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,157,302,449",
+                        "endColumns": "49,51,144,146,90",
+                        "endOffsets": "100,152,297,444,535"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-vi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,243,294,427,565",
+                        "endColumns": "43,50,132,137,100",
+                        "endOffsets": "242,293,426,564,665"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,158,295,437",
+                        "endColumns": "47,54,136,141,104",
+                        "endOffsets": "98,153,290,432,537"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-b+es+419_values-b+es+419.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-b+es+419\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "205,254,306,430,562",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "253,305,429,561,650"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-uk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,249,302,436,573",
+                        "endColumns": "49,52,133,136,85",
+                        "endOffsets": "248,301,435,572,658"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,166,304,445",
+                        "endColumns": "53,56,137,140,89",
+                        "endOffsets": "104,161,299,440,530"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rAR_values-es-rAR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rAR\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rUY_values-es-rUY.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rUY\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-da\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,248,298,412,535",
+                        "endColumns": "48,49,113,122,85",
+                        "endOffsets": "247,297,411,534,620"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,162,280,407",
+                        "endColumns": "52,53,117,126,89",
+                        "endOffsets": "103,157,275,402,492"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.stridesense.app-debug-5:/values-es-rCL_values-es-rCL.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\baria\\.gradle\\caches\\8.14.6\\transforms\\4fb485097816402e166a8a86e87c6c3f\\transformed\\core-1.56.0\\res\\values-es-rCL\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "203,252,304,428,560",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "251,303,427,559,648"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        }
+    ]
+}

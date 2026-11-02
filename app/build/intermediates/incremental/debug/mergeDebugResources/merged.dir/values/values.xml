@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#83A9FF</color>
+    <color name="ink">#0A1016</color>
+    <color name="mint">#54E2BD</color>
+    <color name="muted">#98A8B5</color>
+    <color name="surface">#121B24</color>
+    <color name="surface_high">#192632</color>
+    <color name="white">#F0F5F8</color>
+    <string name="__arcore_cancel">Cancel</string>
+    <string name="__arcore_continue">Continue</string>
+    <string name="__arcore_install_app">This application requires the latest version of Google Play Services for AR.</string>
+    <string name="__arcore_install_feature">This feature requires the latest version of Google Play Services for AR.</string>
+    <string name="__arcore_installing">Installing Google Play Services for AR…</string>
+    <string name="app_name">StrideSense</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/mint</item>
+        <item name="android:statusBarColor">@color/ink</item>
+        <item name="android:navigationBarColor">@color/ink</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/ink</item>
+    </style>
+</resources>
